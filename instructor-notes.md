@@ -84,7 +84,7 @@ Each episode has at least 2 quick-check items. Record every item here: use the b
 Items below are not resolved. The lesson text is worded so that it does not depend on them.
 
 - **Microcredential URL.** `links.md` holds `[microcredential]: https://adci.edu.au/` as a placeholder. Replace it with the real microcredential page once it is confirmed. Every episode uses `[microcredential]`, so one change updates them all.
-- **Licence sign-off.** The course owner has not yet signed off on the licence (content CC-BY 4.0 with attribution to ADCI; code MIT). Confirm before the lesson is made public.
+- **Licence.** The lesson is © ADCI, all rights reserved, for registered students and staff only (changed from CC-BY 4.0 on 2 November 2026). The site is still publicly readable on GitHub Pages, so the licence does not restrict access. Decide whether to make the repository private or host the site where only registered students can reach it. Note that copies made while the lesson was under CC-BY 4.0 keep that licence. The ADCI contact in `LICENSE.md` is still to be confirmed.
 - **Legal name of ADCI.** The full legal name of "ADCI" for `LICENSE.md` and `CITATION.cff` is to be confirmed.
 - **Public repository URL.** Done: `source:` in `config.yaml` points to https://github.com/ADCI-Perth/human-firewall-lesson.
 - **Week 1 reading (McAfee and Brynjolfsson, Chapter 1).** Word count is an estimate and the library is to confirm it. E-book access, chapter title and pages are to be confirmed (week-1 reading guide).

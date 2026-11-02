@@ -31,8 +31,8 @@ keywords: 'cyber security, privacy, human factors, social engineering, security 
 # possible values: pre-alpha, alpha, beta, stable, retired
 life_cycle: 'pre-alpha'
 
-# License of the lesson materials (recommended CC-BY 4.0)
-license: 'CC-BY 4.0'
+# Licence of the lesson materials (proprietary; see LICENSE.md)
+license: 'All rights reserved'
 
 # Link to the source repository for this lesson
 source: 'https://github.com/ADCI-Perth/human-firewall-lesson'

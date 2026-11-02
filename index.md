@@ -2,20 +2,20 @@
 site: sandpaper::sandpaper_site
 ---
 
-This is a free, open companion to the [ADCI microcredential][microcredential] on human factors in cyber security and privacy. It is not an official Carpentries lesson. It uses the open Carpentries Workbench format so that anyone can read it, teach from it or adapt it.
+This is a companion lesson for students registered in the [ADCI microcredential][microcredential] on human factors in cyber security and privacy. It is not an official Carpentries lesson. It uses the Carpentries Workbench format to present the material.
 
-You do not need to be enrolled in the microcredential to use it. You also do not need any technical background. Across twelve short episodes you will look at the people side of security: how attackers persuade, how identity and trust work, why insiders matter, how privacy law protects personal information, and what good security awareness looks like at work.
+You do not need any technical background. Across twelve short episodes you will look at the people side of security: how attackers persuade, how identity and trust work, why insiders matter, how privacy law protects personal information, and what good security awareness looks like at work.
 
 ## Who this lesson is for
 
-- Employees and volunteers in small organisations who handle other people's information.
-- Managers who need to make sensible, low-cost security and privacy decisions.
-- Educators and trainers who want open material they can teach from or reuse.
-- Learners in the microcredential who want extra practice.
+- Registered students in the microcredential who want extra practice.
+- Students who work or volunteer in small organisations and handle other people's information.
+- Students who manage teams and need to make sensible, low-cost security and privacy decisions.
+- ADCI staff who teach the microcredential.
 
 ## How it relates to the microcredential
 
-The microcredential is a separate course run by ADCI. This lesson covers the same themes in a more practical, self-contained way, with its own activities and examples. Completing this lesson does not replace the microcredential. Each episode ends with a short note on where the topic appears in the microcredential, for anyone who wants the credential.
+The microcredential is the assessed course run by ADCI. This lesson covers the same themes in a more practical, self-contained way, with its own activities and examples. Completing this lesson does not replace the microcredential's assessed work. Each episode ends with a short note on which week of the microcredential it matches.
 
 ## How to use it
 
@@ -33,4 +33,4 @@ Many activities use Riverbend Community Library, a fictional small organisation.
 
 ## Licence
 
-Content is shared under CC-BY 4.0, with attribution to ADCI. See the licence page for details.
+© ADCI. All rights reserved. This material is for registered students and ADCI staff only. Do not copy, share or reuse it without written permission from ADCI. See the licence page for details.
