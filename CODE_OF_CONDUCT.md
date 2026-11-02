@@ -22,6 +22,6 @@ As contributors and maintainers of this project, we pledge to treat everyone wit
 
 ## Reporting
 
-To report abusive, harassing or otherwise unacceptable behaviour, contact the lesson maintainers at [ADCI contact to confirm]. Reports are handled in confidence where possible. Maintainers may remove, edit or reject contributions that do not follow this code, and may ask people to stop.
+To report abusive, harassing or otherwise unacceptable behaviour, contact the lesson maintainers at [info@adci.edu.au](mailto:info@adci.edu.au). Reports are handled in confidence where possible. Maintainers may remove, edit or reject contributions that do not follow this code, and may ask people to stop.
 
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html

@@ -84,7 +84,7 @@ Each episode has at least 2 quick-check items. Record every item here: use the b
 Items below are not resolved. The lesson text is worded so that it does not depend on them.
 
 - **Microcredential URL.** `links.md` holds `[microcredential]: https://adci.edu.au/` as a placeholder. Replace it with the real microcredential page once it is confirmed. Every episode uses `[microcredential]`, so one change updates them all.
-- **Licence.** The lesson is © ADCI, all rights reserved, for registered students and staff only (changed from CC-BY 4.0 on 2 November 2026). The site is still publicly readable on GitHub Pages, so the licence does not restrict access. Decide whether to make the repository private or host the site where only registered students can reach it. Note that copies made while the lesson was under CC-BY 4.0 keep that licence. The ADCI contact in `LICENSE.md` is still to be confirmed.
+- **Licence.** The lesson is © ADCI, all rights reserved, for registered students and staff only (changed from CC-BY 4.0 on 2 November 2026). The site is still publicly readable on GitHub Pages, so the licence does not restrict access. Decide whether to make the repository private or host the site where only registered students can reach it. Note that copies made while the lesson was under CC-BY 4.0 keep that licence.
 - **Legal name of ADCI.** The full legal name of "ADCI" for `LICENSE.md` and `CITATION.cff` is to be confirmed.
 - **Public repository URL.** Done: `source:` in `config.yaml` points to https://github.com/ADCI-Perth/human-firewall-lesson.
 - **Week 1 reading (McAfee and Brynjolfsson, Chapter 1).** Word count is an estimate and the library is to confirm it. E-book access, chapter title and pages are to be confirmed (week-1 reading guide).
@@ -104,7 +104,7 @@ Items below are not resolved. The lesson text is worded so that it does not depe
 - **Week 6 card F in the course platform.** Episode 12's card F now says a Medicare card is replaced through Services Australia. The week-6 card F in the course platform may need the same fix. Tell the course team.
 - **Public history of design documents.** Done: the public repository was published from a clean history that does not include the internal design documents. Keep them out of this repository.
 - **GitHub Pages workflows.** The workflows in `.github/workflows` build the site and deploy it to the gh-pages branch on every push to main. This is how the public site is published.
-- **Contact address.** `CODE_OF_CONDUCT.md` and `CONTRIBUTING.md` say "[ADCI contact to confirm]", and `config.yaml` has `contact: ''`. Supply an ADCI contact address for reporting conduct concerns and for feedback, then fill all three.
+- **Contact address.** Done: info@adci.edu.au is used in `LICENSE.md`, `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, `config.yaml` and the landing page.
 
 ## Episode notes
 
