@@ -8,7 +8,7 @@ By contributing, you agree that ADCI may use, change and distribute your contrib
 
 ### How to contribute
 
-1. **Report a problem or suggest a change.** If you have a GitHub account, open an issue in this repository. Otherwise, contact the lesson maintainers at [ADCI contact to confirm].
+1. **Report a problem or suggest a change.** If you have a GitHub account, open an issue in this repository. Otherwise, contact the lesson maintainers at [info@adci.edu.au](mailto:info@adci.edu.au).
 2. **Change the lesson.** If you are comfortable with Git, make a branch, commit your change and open a pull request. Describe what you changed and why.
 
 Before you open a pull request, build the lesson and run the checks described in the [README](README.md): `bash scripts/build.sh`, then the three `scripts/check-*.sh` scripts. The lesson is built with [The Carpentries Workbench][template-doc].

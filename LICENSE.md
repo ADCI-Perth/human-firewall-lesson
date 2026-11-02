@@ -17,7 +17,7 @@ registered. You may not copy, reproduce, republish, distribute, adapt, sell or
 use the material to teach others, in whole or in part, without written
 permission from ADCI.
 
-To ask for permission, contact ADCI at [ADCI contact to confirm].
+To ask for permission, contact ADCI at [info@adci.edu.au](mailto:info@adci.edu.au).
 
 ## Third-party material
 

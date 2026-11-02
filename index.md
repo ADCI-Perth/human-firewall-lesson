@@ -2,7 +2,7 @@
 site: sandpaper::sandpaper_site
 ---
 
-This is a companion lesson for students registered in the [ADCI microcredential][microcredential] on human factors in cyber security and privacy. It is not an official Carpentries lesson. It uses the Carpentries Workbench format to present the material.
+This is a companion lesson for students registered in the [ADCI microcredential][microcredential] on human factors in cyber security and privacy. **It is not free.** Access is part of the paid microcredential and is provided only to registered students. It is not an official Carpentries lesson. It uses the Carpentries Workbench format to present the material.
 
 You do not need any technical background. Across twelve short episodes you will look at the people side of security: how attackers persuade, how identity and trust work, why insiders matter, how privacy law protects personal information, and what good security awareness looks like at work.
 
@@ -33,4 +33,4 @@ Many activities use Riverbend Community Library, a fictional small organisation.
 
 ## Licence
 
-© ADCI. All rights reserved. This material is for registered students and ADCI staff only. Do not copy, share or reuse it without written permission from ADCI. See the licence page for details.
+© ADCI. All rights reserved. This material is not free: it is for registered students and ADCI staff only. Do not copy, share or reuse it without written permission from ADCI. To enrol or ask for permission, contact ADCI at [info@adci.edu.au](mailto:info@adci.edu.au). See the licence page for details.

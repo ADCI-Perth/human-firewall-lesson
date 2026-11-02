@@ -41,7 +41,7 @@ source: 'https://github.com/ADCI-Perth/human-firewall-lesson'
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: ''  # [ADCI contact to confirm]
+contact: 'info@adci.edu.au'
 
 # Navigation ------------------------------------------------
 #
