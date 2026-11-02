@@ -46,7 +46,13 @@
     <loc>https://ADCI-Perth.github.io/human-firewall-lesson/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://ADCI-Perth.github.io/human-firewall-lesson/aio.html</loc>
+  </url>
+  <url>
     <loc>https://ADCI-Perth.github.io/human-firewall-lesson/citation.html</loc>
+  </url>
+  <url>
+    <loc>https://ADCI-Perth.github.io/human-firewall-lesson/images.html</loc>
   </url>
   <url>
     <loc>https://ADCI-Perth.github.io/human-firewall-lesson/index.html</loc>
@@ -97,10 +103,22 @@
     <loc>https://ADCI-Perth.github.io/human-firewall-lesson/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://ADCI-Perth.github.io/human-firewall-lesson/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://ADCI-Perth.github.io/human-firewall-lesson/instructor/citation.html</loc>
   </url>
   <url>
+    <loc>https://ADCI-Perth.github.io/human-firewall-lesson/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://ADCI-Perth.github.io/human-firewall-lesson/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://ADCI-Perth.github.io/human-firewall-lesson/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://ADCI-Perth.github.io/human-firewall-lesson/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://ADCI-Perth.github.io/human-firewall-lesson/instructor/profiles.html</loc>
@@ -110,6 +128,12 @@
   </url>
   <url>
     <loc>https://ADCI-Perth.github.io/human-firewall-lesson/instructor/riverbend.html</loc>
+  </url>
+  <url>
+    <loc>https://ADCI-Perth.github.io/human-firewall-lesson/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://ADCI-Perth.github.io/human-firewall-lesson/key-points.html</loc>
   </url>
   <url>
     <loc>https://ADCI-Perth.github.io/human-firewall-lesson/profiles.html</loc>
