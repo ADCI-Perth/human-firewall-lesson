@@ -1,12 +1,12 @@
 ## The Human Firewall: Human Factors in Cyber Security & Privacy
 
-This is an open lesson that is a companion to the [ADCI microcredential](https://adci.edu.au/) on human factors in cyber security and privacy. It is not an official Carpentries lesson. It uses the [Carpentries Workbench](https://carpentries.github.io/sandpaper-docs/) format so that it can be read, taught and adapted by anyone.
+This is a companion lesson for students registered in the [ADCI microcredential](https://adci.edu.au/) on human factors in cyber security and privacy. It is not an official Carpentries lesson. It uses the [Carpentries Workbench](https://carpentries.github.io/sandpaper-docs/) format.
 
 The lesson has twelve Markdown episodes and no code. Each episode takes 45 to 60 minutes.
 
 ### Licence
 
-Content is shared under CC-BY 4.0 with attribution to ADCI. Any code, including the scripts in `scripts/`, is MIT licensed. See [LICENSE.md](LICENSE.md).
+© ADCI. All rights reserved. The lesson, including the scripts in `scripts/`, is for registered students and ADCI staff only, and may not be copied, shared or reused without written permission from ADCI. The Carpentries Workbench template keeps its own licence. See [LICENSE.md](LICENSE.md).
 
 ### Building the lesson
 

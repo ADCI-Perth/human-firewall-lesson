@@ -2,17 +2,15 @@ cff-version: 1.2.0
 title: "The Human Firewall: Human Factors in Cyber Security & Privacy"
 message: >-
   Please cite this lesson using the information in this file
-  when you refer to it in publications, and/or if you
-  re-use, adapt, or expand on the content in your own
-  training material.
+  when you refer to it in your work. The lesson is © ADCI, all rights
+  reserved; see LICENSE.md.
 type: dataset
 authors:
   - name: "ADCI"
     website: "https://adci.edu.au/"
 abstract: >-
-  An open companion lesson to the ADCI microcredential on human factors in
-  cyber security and privacy. Twelve short episodes, written for employees of
-  small organisations and the educators who teach them, cover social
-  engineering, identity, insider threat, privacy law, security awareness and
-  incident response.
-license: CC-BY-4.0
+  A companion lesson for students registered in the ADCI microcredential on
+  human factors in cyber security and privacy. Twelve short episodes cover
+  social engineering, identity, insider threat, privacy law, security
+  awareness and incident response.
+license-url: "https://github.com/ADCI-Perth/human-firewall-lesson/blob/main/LICENSE.md"

@@ -4,7 +4,7 @@ This lesson is a companion to an ADCI microcredential. It is not an official Car
 
 ### Contributor agreement
 
-By contributing, you agree that we may redistribute your work under [our licence](LICENSE.md). Everyone taking part agrees to follow the [code of conduct](CODE_OF_CONDUCT.md).
+By contributing, you agree that ADCI may use, change and distribute your contribution as part of this lesson, which is © ADCI with all rights reserved (see the [licence](LICENSE.md)). Everyone taking part agrees to follow the [code of conduct](CODE_OF_CONDUCT.md).
 
 ### How to contribute
 

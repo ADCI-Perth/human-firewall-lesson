@@ -10,8 +10,8 @@ Mia works in the front office of a family-run physiotherapy clinic with eight st
 
 **What she needs from the lesson:** short episodes, no jargon, and activities based on realistic workplace situations.
 
-## Daniel, an educator reusing the material
+## Daniel, an ADCI instructor
 
-Daniel teaches a short course on digital skills at a community college. He is not a security specialist. He wants open material that he can run in a single session, adapt to his own students and share with colleagues. He cares about clear licensing, accurate references and activities that work without special software.
+Daniel teaches on the microcredential at ADCI. He is not a security specialist. He runs optional live sessions for registered students and wants material he can teach in a single session. He cares about accurate references and activities that work without special software.
 
-**What he needs from the lesson:** instructor notes, timings he can trust, answers he can check, and permission to reuse and adapt the content.
+**What he needs from the lesson:** instructor notes, timings he can trust and answers he can check.
