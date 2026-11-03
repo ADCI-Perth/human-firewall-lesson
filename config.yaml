@@ -11,11 +11,11 @@
 # incubator: The Carpentries Incubator
 # Note that you can also use a custom carpentry type. For more info,
 # see the documentation: https://carpentries.github.io/sandpaper-docs/editing.html
-carpentry: 'cp'
+carpentry: 'adci'
 
 # Custom carpentry description
 # This will be used as the alt text for the logo
-# carpentry_description: "Custom Carpentry"
+carpentry_description: "ADCI"
 
 # Overall title for pages.
 title: 'The Human Firewall: Human Factors in Cyber Security & Privacy'
@@ -95,3 +95,6 @@ profiles:
 # sandpaper and varnish versions) should live
 
 
+
+# ADCI fork of the theme, which holds the ADCI logo and favicons
+varnish: 'ADCI-Perth/varnish'
